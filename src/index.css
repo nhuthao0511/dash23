@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Các style tùy chỉnh khác của bạn bên dưới (nếu có) */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  background-color: #09090b;
+}

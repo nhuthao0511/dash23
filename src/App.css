@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Xóa các thuộc tính mặc định của React nếu nó làm hỏng giao diện */
+:root {
+  background-color: #09090b; /* Màu nền tối để khớp với Dashboard */
+}
